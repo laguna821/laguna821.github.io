@@ -105,7 +105,7 @@ gfloyd_clean<-gfloyd_clean[ grep("blacklivesmatters", gfloyd_clean$word, invert 
 
 긍/부정 워드클라우드. murder, death, racism, killed등이 빨간색의 부정적 단어로 크게 배치된 것을 볼 수 있으며, peace, trump같은 단어들이 긍정적 단어로 표시된 것을 볼 수 있다.
 
-![wordcloud discrete emotion]({{site.baseurl}}/images/pages/gfwcnrc.jpg.jpg)
+![wordcloud discrete emotion]({{site.baseurl}}/images/pages/gfwcnrc.jpg)
 
 개별 감정별 워드클라우드. police같은 단어가 공포로 표시되어 있으면서도 officer는 신뢰의 색깔로 표시되어 있다. white가 기쁨의 감정으로 분류되고 death가 놀람의 감정으로 표시된 것을 보면, 종합적으로 이 트위터 샘플은 대체로 트럼프에 대해 중립 내지는 다소 호의적인 백인 샘플이 상당수 일 것이며, 그 샘플들의 트윗들은 대부분 George Floyd 사건 관련해서 제3자 입장에서 '매우 놀랍고 유감스러운 사건이다'라는 식으로 신중하게 입장을 표명하는 경향들을 보이는 것으로 파악된다.
 
