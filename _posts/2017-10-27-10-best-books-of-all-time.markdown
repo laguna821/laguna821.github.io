@@ -2,7 +2,7 @@
 layout: post
 title: Project 1: Sentiment Analysis of George Floyd Twets
 date: 2020-6-3 18:09:50 +0300
-img: gfwcnrc.jpg
+img: gfloyd_wordcloud.jpg
 tags: [RStudio, Bing, NRC, wordcloud]
 author: Changhyun Ahn
 ---
